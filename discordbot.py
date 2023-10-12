@@ -1,6 +1,6 @@
 import discord
 
-Token = "MTE2MTk3OTk3ODI4MDMzNzQxOA.GZ5goh.5hH4P4Kw1d9LfhWA6rIKqVundgqnqM5Vpuekqw"
+Token = "ここにトークンを入力"
 
 Intents = discord.Intents.default()
 Intents.message_content = True
