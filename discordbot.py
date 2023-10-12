@@ -19,7 +19,7 @@ async def on_message(message):
         return
 
     if message.content == '/ohayou':
-        await message.channel.send("おはうんこBot")
+        await message.channel.send("おはBot")
 
     if message.content.startswith('おやすみ'):
         await message.channel.send('おやすみ！また明日！')
